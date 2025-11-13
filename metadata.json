@@ -1,0 +1,5 @@
+{
+  "name": "Instagram Stories Clone",
+  "description": "A responsive web application that replicates the core functionality of Instagram Stories, allowing users to view and navigate through stories with progress indicators and view tracking.",
+  "requestFramePermissions": []
+}
